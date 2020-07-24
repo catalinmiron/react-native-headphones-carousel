@@ -6,7 +6,6 @@ Snack: https://snack.expo.io/@catalinmiron/react-native-headphones-carousel
 
 ### Youtube tutorial
 
-[![React Native Headphones Carousel Youtube tutorial](react-native-headphones-animated-carousel_preview.png)](https://youtu.be/cGTD4yYgEHc)
 [![React Native Headphones Carousel Youtube tutorial](react-native-headphones-animated-carousel_preview.gif)](https://youtu.be/cGTD4yYgEHc)
 
 I decided to make an advanced #ReactNative animation video tutorial this time. This is an animated carousel / animated slider with lots of animations going on.
